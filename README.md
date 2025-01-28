@@ -1,3 +1,3 @@
 # MulticolorRamsey
 
-[Blueprint Homepage](https://forduniver.github.io/multicolorramsey)
+[Blueprint Homepage](https://ooovi.github.io/multicolorramsey)
